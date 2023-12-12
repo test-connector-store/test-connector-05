@@ -1,3 +1,4 @@
 {
- invalid: "Invalid JSON
+  "name": "Connector 05",
+  "documentationUrl": "https://github.com/test-connector-store/test-connector-01/edit/main/meta.json"
 }
